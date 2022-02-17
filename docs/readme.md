@@ -1,4 +1,5 @@
 # Deployment of Synapse Pipelines
+{:toc}
 
 ## Introduction
 

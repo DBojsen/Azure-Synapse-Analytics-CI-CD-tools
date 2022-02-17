@@ -1,4 +1,4 @@
-# Deployment of Synapse pipelines
+# Deployment of Synapse Pipelines
 
 ## Introduction
 

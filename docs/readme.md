@@ -1,14 +1,16 @@
-# Introduction
+# Deployment of Synapse pipelines
 
-# Why create a deployment tool
+## Introduction
 
-# Prerequisites
-## Azure
-## Azure DevOps
+## Why create a deployment tool
 
-# Install and configure extension
+## Prerequisites
+### Azure
+### Azure DevOps
 
-# Deploying using extension
+## Install and configure extension
 
-# Troubleshooting
-## Issue tracker on GitHub
+## Deploying using extension
+
+## Troubleshooting
+### Issue tracker on GitHub

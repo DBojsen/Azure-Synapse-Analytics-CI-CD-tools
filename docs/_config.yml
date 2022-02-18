@@ -1,3 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
+logo: "/docs/image/DataVikings.png"
 title: Deployment tools
 description: Deployment tool for Synapse Pipelines

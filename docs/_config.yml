@@ -1,4 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "/docs/image/DataVikings.png"
+color_scheme: dark
 title: Deployment tools
 description: Deployment tool for Synapse Pipelines
